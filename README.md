@@ -8,7 +8,7 @@ Space Themed Game Submitted to Knight Hacks 2021 USSF Challenge
 # Try It Yourself!
 A Windows download of the current version, __v0.1__, can be found [here]().
 
-You can also play in your browser [here]().
+You can also play in your browser [here](https://play.unity.com/mg/other/aliens-took-my-friend).
 
 # The Game
 
