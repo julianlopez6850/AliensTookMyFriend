@@ -1,3 +1,5 @@
+![TitleScreen](https://i.imgur.com/QygKClV.png)
+
 # AliensTookMyFriend
 Space Themed Game Submitted to Knight Hacks 2021 USSF Challenge
 
@@ -6,9 +8,7 @@ Space Themed Game Submitted to Knight Hacks 2021 USSF Challenge
 * Julian Lopez
 
 # Try It Yourself!
-A Windows download of the current version, __v0.1__, can be found [here]().
-
-You can also play in your browser [here](https://play.unity.com/mg/other/aliens-took-my-friend).
+You can play in your browser [here](https://play.unity.com/mg/other/aliens-took-my-friend).
 
 # The Game
 
@@ -41,3 +41,5 @@ We created all of the models using Blender
 # Other Information
 
 This game was done in approximately 36 hours as part of the KnightHacks 2021 Hackathon. We learned a lot throughout this challenge, and cannot wait to continue working on this project.
+
+Here is a video demonstration of the game in action: https://youtu.be/-XpHuNfeMX0
